@@ -1,1 +1,22 @@
-En textfil
+-En textfil
+
+C:\Users\Sofie Holden\JavaverktygProjects\GIT-Lab (master -> origin)
+λ git log
+commit 05fa83ab14404331627f30e444ee5943d0774e31 (HEAD -> master, origin/master)
+Author: SofHldn <sofie.holden@iths.se>
+Date:   Wed Nov 4 10:53:00 2020 +0100
+
+    Updated .gitignore
+
+commit c041ed20b9801d91272803fd4dd4b19ff3e1d4a4 (origin/feature1, feature1)
+Author: SofHldn <sofie.holden@iths.se>
+Date:   Wed Nov 4 10:37:40 2020 +0100
+
+    Created a textfil
+
+commit 9d926c7d8da4d16af253bc8806c22369232adfec
+Author: SofHldn <sofie.holden@iths.se>
+Date:   Wed Nov 4 10:09:42 2020 +0100
+
+    A first commit of .gitignore and README.md files
+
